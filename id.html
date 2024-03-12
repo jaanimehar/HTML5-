@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>id lecture 18</title>
+    <style>
+        #h1{
+            color: red;
+            border: 2px solid green;
+        }
+        #h2{
+            color: yellow;
+            border: 2px solid green;
+        }
+        #h3{
+            color: blue;
+            border: 2px solid green;
+        }
+        .p1{
+            color: aqua;
+            border: 2px solid green;
+        }
+        #js{
+            color: yellowgreen;
+            border: 2px solid green;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="h1">My id1</h1>
+    <!-- difference between class and id -->
+    <h2 id="h2">My id 2</h2>
+    <h2 id="h3">My id 2</h2>
+
+    <p class="p1">My class 1</p>
+    <p class="p1">My class 2</p>
+    <h3 class="p1">My class 3</h3>
+    <!-- access element bu suing id wit java script -->
+    <h1 id="js"></h1>
+    <!-- js -->
+    <script>
+        function myid()
+        {
+            document.getElementById("js").innerHTML="My Js(this access by using element id)"
+        }
+        myid();
+    </script>
+
+    
+</body>
+</html>

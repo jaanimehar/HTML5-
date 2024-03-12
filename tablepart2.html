@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lecture 20</title>
+    <style>
+        table{
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        th{
+            border: 1px solid red;
+            color: red;
+            background-color: black;
+
+        }
+        td{
+            border: 1px solid black;
+            text-align: center;
+
+        }
+    </style>
+</head>
+<body>
+    <h1>Horizontal table</h1>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Roll no.</th>
+            <th>School</th>
+        </tr>
+        <tr>
+            <td>Mohan</td>
+            <td>1</td>
+            <td>X</td>
+        </tr>
+        <tr>
+            <td>Sohan</td>
+            <td>2</td>
+            <td>Y</td>
+        </tr>
+    </table><br>
+    <h1>Vertical table</h1>
+    <table>
+        <tr>
+            <th>Name</th>
+            <td>Mohan</td>
+            <td>Sohan</td>
+        </tr>
+        <tr>
+            <th>Roll no.</th>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <th>School</th>
+            <td>X</td>
+            <td>Y</td>
+        </tr>
+    </table><br>
+    <h1>more than 1 column</h1>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Roll no.</th>
+            <th colspan="5">School</th>
+        </tr>
+        <tr>
+            <td>Mohan</td>
+            <td>1</td>
+            <td>X</td>
+            <td>Z</td>
+            <td>T</td>
+            <td>T</td>
+            <td>T</td>
+
+        </tr>
+    </table><br>
+    <h1>more than 1 row</h1>
+    <table>
+        <tr>
+            <th>Name</th>
+            <td>Mohan</td>
+            <td>Sohan</td>
+        </tr>
+        <tr>
+            <th rowspan="3">mobile no.</th>
+            <td>1111111</td>
+            <td>222222</td>
+        </tr>
+        <tr>
+            <td>333333</td>
+            <td>4444444</td>
+        </tr>
+        <tr>
+            <td>333333</td>
+        </tr>
+
+    
+</body>
+</html>

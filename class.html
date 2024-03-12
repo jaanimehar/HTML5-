@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>class lecture 17</title>
+    <style>
+        .h1{
+            color: red;
+            border: 2px solid green;
+        }
+        .o1{
+            color: blue;
+            border: 2px solid green;
+        }
+        .t2{
+            color: yellow;
+            border: 2px solid green;
+        }
+        .th3{
+            color: violet;
+            border: 2px solid green;
+        }
+        .js{
+            color: aqua;
+            border: 2px solid green;
+
+        }
+    </style>
+</head>
+<body>
+    <h1 class="h1">My heading</h1>
+    <p class="h1">This is lecture-17</p>
+    <!-- same element but different class name -->
+    <h2 class="o1">1</h2>
+    <h2 class="t2">2</h2>
+    <h2 class="th3">3</h2>
+    <!-- access element by using class name with java script -->
+    <h1 class="js"></h1>
+    <script>
+        const collection=document.getElementsByClassName("js");
+        collection[0].innerHTML="Java Script";
+
+    </script>
+
+
+    
+</body>
+</html>

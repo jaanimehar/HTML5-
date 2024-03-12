@@ -1,0 +1,287 @@
+HTML Basic
+1.HTML Documnet
+2.HTML heading
+3.HTML paragraphs
+4.HTML links
+5.HTML images
+6.HTML button
+7.HTML lists 
+
+HTML ATTRIBUTES
+All HTML elements can have attributes
+Attributes provide additional information about elements
+Attributes are always specified in the start tag
+Attributes usually come in name/value pairs like: name="value"
+
+1.The tiitle ATTRIBUTES
+2.the href ATTRIBUTES
+3.the width and height ATTRIBUTES
+4.the alt ATTRIBUTES
+5.ATTRIBUTES without  quotes
+6.ATTRIBUTES without quotes does not work 
+
+HMTL Heading 
+1.HMTL Heading  
+2.HTML horizontal rules
+3.HMTL head 
+
+HTML paragraphs
+1.HTML paragraphs
+2.More HTML paragraphs
+3.The use of line break in HTML
+4.Poem Problems (some problems with HTML formating)
+5.How ro controle yhe line breaks and spaces with the <pre>tag
+
+HTML Styles
+1.HTML Styles
+2.HTML backround color
+3.text color
+4.text font 
+5.text size
+6.text alignment  
+
+HTML Text Formatting
+1.Bold
+2.Strong
+3.Italic
+4.Emphasized formating
+5.Small FormattingMarked Formatting
+6.Marked Formatting 
+7.Marked deleted
+8.marked inserted
+9.marked delete and inserted
+10.Subscript formatting 
+11.Superscript formatting
+
+HTML Quotations and Citations
+1.Formatting short quotations.
+2.formatingquoted section.
+3.formatingdocument author/owner information
+4.formatingabberviations and acronyms.
+5.formatingwork with tittle
+6.formating text direction. 
+
+
+HTML Comments
+1.hidden Comments
+2.Conditional CommentsComments foe debugging
+
+HTML CSS
+1.inline Css 
+2.internal Css
+3.external Css
+4.CSS fonts
+5.CSS using id ATTRIBUTE
+6.CSS using the class ATTRIBUTE
+7.CSS borders
+8.CSS padding
+9.CSS margin 
+10.CSS full demo
+
+HTML Links
+1.linking using absolute URL
+2.linking using a relative URL.
+3.change the link color
+4.removing the underline of link
+5.an images as a link 
+6.creating a bookmarks link.
+7.A link that breaks out of frame 
+8.A mailto link.
+9.A mailto link with subject
+
+HTML Images
+1.An images
+2.image height and width using ATTRIBUTES.
+3.image height and width using CSS.
+4.an image in another folder
+5.image with broken link 
+6.image on another server
+7.image as a link 
+8.a moving image
+9.an image map with clickable regions
+10.a floating image 
+
+HTML Tables
+1.basic Tables 
+2.table borders
+3.collapsed border 
+4.table with cell padding 
+5.table with heading
+6.table with left-aligned heading
+7.horizontal/vertical table heading
+8.table with a caption
+9.table cells that span more than one column
+10.table cell that span more than one row
+11.A table with cell spacing
+12.A table with HTML tags inside
+13.Tables with different style using id 1
+14.Tables with different style using id 2
+15.Tables with different style using class 1
+16.Tables with different style using class 2
+
+HTML Lists
+1.an unorder list disc bullet
+2.an unorder list circle bullet
+3.an unorder list square bullet
+4.an unorder list without bullet
+5.an order list (default)
+6.an order list numbers
+7.an order list letters
+8.an order list lowercase
+9.an order list roman numbers
+10.an order list lowercase roman numbers
+11.a description List
+12.a nested List
+13.a horizontal List
+14.a horizontal List menu
+
+HTML Block and inline elements
+1.div
+2.span
+
+HTML Classes
+1.style all elements with a specific class name 
+2.multiple Classes
+3.same class, different tag
+4.access element with a specified class name , with javascript
+
+HTML Id
+1.style an element with a specific id   
+2.difference between class and id 
+3.access an element with a specific id, with javascript
+
+HTML Layout
+1.layout using float
+2.layout using flexbox
+
+HTML IFrame
+1.inline frame 
+
+HTML head Elements
+1.a valid HTML document with no <html> body and <head>.
+2.a valid HTML document with no <head>. element
+3.tittle elemnt define thedocument tittle.
+4.style element contains style information
+5.link element defines a relationship to an external resources 
+6.meta element defines special meta information.
+7.script element defines client side javascript
+8.base element defines the base URL for all urls.
+
+HTML Scripts
+1.insert a script 
+
+HTML Computercode Elements
+1.kbd element
+2.samp element
+3.code element
+4.var element
+
+HTML Forms
+1.text input
+2.radio button
+3.submit button.
+4.text field without a name attribute 
+5.grouping form data
+
+HTML Form Elements
+1.drop down list
+2.textarea
+3.input button
+4.datalist element
+5.output element
+
+HTML Input Types 
+1.input type text
+2.input type password
+3.input type radio
+4.input type checkbox
+5.input type button
+6.input type number with restriction
+7.input type number with step
+8.input type date with date picker
+9.input type  date with restriction 
+10.input type  date with color picker 
+11.input type range
+12.input type month
+13.input type week
+14.input type time
+15.input type datetime
+16.input type datetime-local
+17.input type email.
+18.input type search.
+19.input type table
+20. input type url
+
+HTML Canvas Graphics
+1.Draw on the Canvas with javascript
+2.draw a line with line to()
+3.draw a circle with acr()
+4.draw a text with fill text()
+5.draw a text with stroketext()
+6.draw a linear gradient
+7.draw a circular gradient
+8.draw an image with drawimage()
+
+HTML SVG Graphics
+1.circle
+2.rectangle.
+3.rounded rectangle
+4.star
+5.logo
+
+HTML Media
+1.Bunny
+2.bear video with controls
+3.bear video with autoplay
+4.horse sound with controls
+
+HTML Geolocation
+1.get geolocation coordinate
+2.handle geolocation errors.
+3.get geolocation and watch the position
+
+HTML Local Storage
+1.store a name permanantly
+2.store a counter permanantly
+3.store a counter for one session
+
+HTML Media
+1.play video file 
+2.play an audio file in HTML
+3.play a youtube video in HTML
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
